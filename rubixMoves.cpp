@@ -392,7 +392,7 @@ void rubixMoves::bacFTurnLeft(){
         if(side == 'b'){
             switchOrange();
             transfered = true;
-            leftTurnUp();
+            leftTurnDown();
             switchBlue();
         }
         if(side == 'g'){

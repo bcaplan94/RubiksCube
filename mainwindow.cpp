@@ -326,17 +326,17 @@ void MainWindow::cubeSetup(){
    }
 
    if(layout == projection){
-    mPolygons[36]  <<  QPoint(xPos,100+yPosT +50) <<  QPoint(xPos + 50,100+yPosT +50+3) << QPoint(xPos + 50-15,100+yPosT +50+3+15) << QPoint(xPos-15,100+yPosT +50+15) ;
-    mPolygons[37]  <<  QPoint(xPos+50,100+yPosT+3 +50) <<  QPoint(xPos + 50 +50,100+yPosT +50+6) << QPoint(xPos+50 + 50-15,100+yPosT +50+6+15) << QPoint(xPos+50-15,100+yPosT+3 +50+15) ;
-    mPolygons[38]  <<  QPoint(xPos+100,100+yPosT+6 +50) <<  QPoint(xPos + 50 +100,100+yPosT +50+9) << QPoint(xPos+100 + 50-15,100+yPosT +50+9+15) << QPoint(xPos+100-15,100+yPosT+6 +50+15) ;
+    mPolygons[42]  <<  QPoint(xPos,100+yPosT +50) <<  QPoint(xPos + 50,100+yPosT +50+3) << QPoint(xPos + 50-15,100+yPosT +50+3+15) << QPoint(xPos-15,100+yPosT +50+15) ;
+    mPolygons[43]  <<  QPoint(xPos+50,100+yPosT+3 +50) <<  QPoint(xPos + 50 +50,100+yPosT +50+6) << QPoint(xPos+50 + 50-15,100+yPosT +50+6+15) << QPoint(xPos+50-15,100+yPosT+3 +50+15) ;
+    mPolygons[44]  <<  QPoint(xPos+100,100+yPosT+6 +50) <<  QPoint(xPos + 50 +100,100+yPosT +50+9) << QPoint(xPos+100 + 50-15,100+yPosT +50+9+15) << QPoint(xPos+100-15,100+yPosT+6 +50+15) ;
 
     mPolygons[39]  <<  QPoint(xPos-15,100+yPosT+15 +50) <<  QPoint(xPos-15 + 50,100+yPosT+15 +50+3) << QPoint(xPos -15+ 50-15,100+yPosT+15 +50+3+15) << QPoint(xPos-15-15,100+yPosT+15 +50+15) ;
     mPolygons[40]  <<  QPoint(xPos+50-15,100+yPosT+3+15 +50) <<  QPoint(xPos-15 + 50 +50,100+yPosT+15 +50+6) << QPoint(xPos+50-15 + 50-15,100+yPosT+15 +50+6+15) << QPoint(xPos+50-15-15,100+yPosT+15+3 +50+15) ;
     mPolygons[41]  <<  QPoint(xPos+100-15,100+yPosT+6+15 +50) <<  QPoint(xPos-15 + 50 +100,100+yPosT+15 +50+9) << QPoint(xPos+100-15 + 50-15,100+yPosT+15 +50+9+15) << QPoint(xPos-15+100-15,100+yPosT+15+6 +50+15) ;
 
-    mPolygons[42]  <<  QPoint(xPos-15-15,100+yPosT+15+15 +50) <<  QPoint(xPos-15-15 + 50,100+yPosT+15+15 +50+3) << QPoint(xPos-15 -15+ 50-15,100+yPosT+15+15 +50+3+15) << QPoint(xPos-15-15-15,100+yPosT+15+15 +50+15) ;
-    mPolygons[43]  <<  QPoint(xPos+50-15-15,100+yPosT+15+3+15 +50) <<  QPoint(xPos-15-15 + 50 +50,100+yPosT+15+15 +50+6) << QPoint(xPos-15+50-15 + 50-15,100+yPosT+15+15 +50+6+15) << QPoint(xPos-15+50-15-15,100+yPosT+15+15+3 +50+15) ;
-    mPolygons[44]  <<  QPoint(xPos+100-15-15,100+yPosT+15+6+15 +50) <<  QPoint(xPos-15-15 + 50 +100,100+yPosT+15+15 +50+9) << QPoint(xPos-15+100-15 + 50-15,100+yPosT+15+15 +50+9+15) << QPoint(xPos-15-15+100-15,100+yPosT+15+15+6 +50+15) ;
+    mPolygons[36]  <<  QPoint(xPos-15-15,100+yPosT+15+15 +50) <<  QPoint(xPos-15-15 + 50,100+yPosT+15+15 +50+3) << QPoint(xPos-15 -15+ 50-15,100+yPosT+15+15 +50+3+15) << QPoint(xPos-15-15-15,100+yPosT+15+15 +50+15) ;
+    mPolygons[37]  <<  QPoint(xPos+50-15-15,100+yPosT+15+3+15 +50) <<  QPoint(xPos-15-15 + 50 +50,100+yPosT+15+15 +50+6) << QPoint(xPos-15+50-15 + 50-15,100+yPosT+15+15 +50+6+15) << QPoint(xPos-15+50-15-15,100+yPosT+15+15+3 +50+15) ;
+    mPolygons[38]  <<  QPoint(xPos+100-15-15,100+yPosT+15+6+15 +50) <<  QPoint(xPos-15-15 + 50 +100,100+yPosT+15+15 +50+9) << QPoint(xPos-15+100-15 + 50-15,100+yPosT+15+15 +50+9+15) << QPoint(xPos-15-15+100-15,100+yPosT+15+15+6 +50+15) ;
 
     //right side of cube
     mPolygons[51]  <<  QPoint(xPosR-15,100+yPos+15) <<  QPoint(xPosR,100+yPos) << QPoint(xPosR,100+yPos +50) << QPoint(xPosR-15,100+yPos +50+15) ;
