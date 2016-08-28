@@ -9,3 +9,5 @@ user alows has the option to save the cube at its current state and load it in f
 	
 
 ![alt tag](https://github.com/bcaplan94/RubiksCube/blob/master/pictures/Screen%20Shot%202016-08-27%20at%2011.52.49%20PM.png)
+![alt tag](https://github.com/bcaplan94/RubiksCube/blob/master/pictures/Screen%20Shot%202016-08-27%20at%2011.53.17%20PM.png)
+![alt tag](https://github.com/bcaplan94/RubiksCube/blob/master/pictures/Screen%20Shot%202016-08-27%20at%2011.54.07%20PM.png)
