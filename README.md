@@ -8,6 +8,6 @@ user alows has the option to save the cube at its current state and load it in f
 
 	
 
-![alt tag](https://github.com/bcaplan94/RubiksCube/blob/master/pictures/Screen%20Shot%202016-08-27%20at%2011.52.49%20PM.png)
-![alt tag](https://github.com/bcaplan94/RubiksCube/blob/master/pictures/Screen%20Shot%202016-08-27%20at%2011.53.17%20PM.png)
-![alt tag](https://github.com/bcaplan94/RubiksCube/blob/master/pictures/Screen%20Shot%202016-08-27%20at%2011.54.07%20PM.png)
+![alt tag](https://cloud.githubusercontent.com/assets/13991328/18040220/a12bc8f2-6d68-11e6-8453-ca914203aa3d.png)
+![alt tag](https://cloud.githubusercontent.com/assets/13991328/18040219/a12aced4-6d68-11e6-8d3d-b02d88484173.png)
+![alt tag](https://cloud.githubusercontent.com/assets/13991328/18040221/a12beee0-6d68-11e6-8e33-a26be83ed0e0.png)
